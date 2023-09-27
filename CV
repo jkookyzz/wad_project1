@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>CV Salwa</title>
+	<head>
+	<body>
+		<h1>Curriculum Vitae</h1>
+		<br><img src = "wawa.jpg" width="200"/>
+		<hr></hr>
+		<p><strong> Nama : </strong> Siti Salwa Azizah</p>
+		<p><strong> TTL : </strong> 01 Juni 2003</p>
+		<p><strong> Alamat : </strong> jl. sukabirus</p>
+		<hr></hr>
+		<table border = "1">
+			<tr>
+				<td>Jenjang Pendidikan</td>
+				<td>Nama Sekolah/Perguruan Tinggi</td>
+				<td>Tahun Masuk</td>
+				<td>Tahun Keluar</td>
+			</tr>
+			<tr>
+				<td>SMA</td>
+				<td>MAN 2 Jakarta</td>
+				<td>2018</td>
+				<td>2021</td>
+			</tr>
+			<tr>
+				<td>SMP</td>
+				<td>MTS 22 Jakarta</td>
+				<td>2015</td>
+				<td>2018</td>
+			</tr>
+
+</body>
+</html>
